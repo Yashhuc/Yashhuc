@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Prefinal year Student
 ---------------------
 
-I have strong basics in Data Structures and Algorithms. Currently studying machine learning. And also working on a full-stack web development project using Django, HTML, and CSS.
+I have strong basics in Data Structures and Algorithms. I also work on full-stack web development projects using Django, React.js, and MySQL.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [yashsisodia155@gmail.com](mailto:yashsisodia155@gmail.com)
-* 🧠  I'm learning Django, Numpy, Pandas
+* 🧠  I'm learning web development and practicing ML concepts.
 
 ### Skills
 
